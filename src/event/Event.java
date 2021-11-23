@@ -18,6 +18,8 @@ public class Event {
     private int remainingCapacity;
     private ArrayList<Double> Eventcost;
     private int EventNumber;
+
+
     private HashMap<Integer, Integer> discounts;
 
 //    public HashMap<Integer, Integer> getDiscounts() {
