@@ -1,0 +1,2 @@
+Event Name:k	,Event Date:k	,Event Time: k	,Event location:k	,Event capacity:45	,Remaining Capacity: 45	costs1 :1.0
+,Discount code and its percentage:{}%
